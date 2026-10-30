@@ -8,4 +8,4 @@ Leçons, exercices et épreuves blanches du CP à la terminale : plus de 40 000 
 - Mon parcours, répétition espacée, rappels de cours avec liens Wikipédia, recherche dans toutes les classes, sujets types (brevet 2026, épreuve anticipée de maths), fiches de méthode, cours détaillés, liens vers les annales officielles, fiches d'exercices imprimables avec corrigé, bilan imprimable pour les parents.
 - Pages publiques : `confidentialite.html` (politique de confidentialité) et `aide.html` (aide et contact) — remplacez `CONTACT_EMAIL` avant de publier.
 
-*Caribou Labs — Pupitre v3.2.0*
+*Caribou Labs — Pupitre v3.4.0*
