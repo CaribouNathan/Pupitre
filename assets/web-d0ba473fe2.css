@@ -11,4 +11,6 @@
 .exo-a{margin-top:6px}
 .exo-a summary{cursor:pointer;font-weight:600;color:var(--text-2);user-select:none}
 .exo-sol{margin-top:4px;padding:6px 10px;border-left:3px solid color-mix(in srgb,currentColor 35%,transparent);white-space:pre-line}
-@media print{.exo-a{display:none}.exo-list>li{background:none;padding:2px 0 14px}}
+.lesson-fig{margin:6px 0 8px;display:flex;justify-content:center}
+.lesson-fig svg{max-width:min(100%,460px);height:auto;color:var(--text)}
+@media print{.lesson-fig svg{color:#000}.exo-a{display:none}.exo-list>li{background:none;padding:2px 0 14px}}
