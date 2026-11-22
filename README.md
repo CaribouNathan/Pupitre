@@ -1,6 +1,6 @@
 # Pupitre — révisions en ligne, du CP au bac
 
-Leçons, exercices et épreuves blanches du CP à la terminale : plus de 31 000 questions, rédigées d'après les programmes officiels en vigueur en 2026-2027, (QCM, calculs, associations, classements, phrases à corriger, problèmes à étapes, cartes, dictées audio) en français, maths, histoire-géo, sciences, langues (anglais, espagnol, allemand, italien), EMC, philosophie et spécialités.
+Leçons, exercices et épreuves blanches du CP à la terminale : plus de 31 000 questions, rédigées d'après les programmes officiels en vigueur en 2026-2027 (QCM, calculs, associations, classements, phrases à corriger, problèmes à étapes, cartes, dictées audio) en français, maths, histoire-géo, sciences, langues (anglais, espagnol, allemand, italien), EMC, philosophie et spécialités.
 
 - Rien à installer : ouvrez le lien, puis « Ajouter à l'écran d'accueil » pour l'installer comme une application.
 - Fonctionne hors ligne après la première visite.
