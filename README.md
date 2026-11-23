@@ -5,8 +5,8 @@ Leçons, exercices et épreuves blanches du CP à la terminale : plus de 31 000 
 - Rien à installer : ouvrez le lien, puis « Ajouter à l'écran d'accueil » pour l'installer comme une application.
 - Fonctionne hors ligne après la première visite.
 - Profils et progrès restent **sur l'appareil** (aucun compte, aucune donnée envoyée).
-- Cours rédigés en maths et en français du CP à la 3e (avec figures en géométrie), et pour toutes les notions : vocabulaire, à retenir, méthodes, exemples corrigés, et exercices à faire sur le cahier, avec la correction cachée jusqu’à ce que l’élève la demande.
+- Cours rédigés du CP à la 3e en maths, français, sciences (Questionner le monde, SVT, physique-chimie, technologie) et histoire-géographie, avec figures et schémas ; pour toutes les notions : vocabulaire, à retenir, méthodes, exemples corrigés, et exercices à faire sur le cahier, avec la correction cachée jusqu’à ce que l’élève la demande.
 - Mon parcours, répétition espacée, rappels de cours avec liens Wikipédia, recherche dans toutes les classes, sujets types (brevet 2026, épreuve anticipée de maths), fiches de méthode, cours détaillés, liens vers les annales officielles, fiches d'exercices imprimables avec corrigé, bilan imprimable pour les parents.
 - Pages publiques : `confidentialite.html` (politique de confidentialité) et `aide.html` (aide et contact) — remplacez `CONTACT_EMAIL` avant de publier.
 
-*Caribou Labs — Pupitre v3.10.0*
+*Caribou Labs — Pupitre v3.11.0*
