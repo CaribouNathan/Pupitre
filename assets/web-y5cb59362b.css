@@ -14,3 +14,17 @@
 .lesson-fig{margin:6px 0 8px;display:flex;justify-content:center}
 .lesson-fig svg{max-width:min(100%,460px);height:auto;color:var(--text)}
 @media print{.lesson-fig svg{color:#000}.exo-a{display:none}.exo-list>li{background:none;padding:2px 0 14px}}
+
+.toc-head{font-weight:700;font-size:.8em;letter-spacing:.06em;text-transform:uppercase;color:var(--text-2);padding:4px 10px 2px}
+.toc-chap{display:flex;flex-direction:column}
+.toc-chap>.lesson-item .chapter-title{font-weight:700}
+.lesson-item.in{background:var(--plum-2)}
+.toc-notions{display:flex;flex-direction:column;gap:1px;margin:0 0 6px 16px;padding-left:6px;border-left:2px solid var(--plum-3)}
+.notion-item{all:unset;box-sizing:border-box;display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:8px;cursor:pointer;font-size:.93em;line-height:1.25}
+.notion-item:hover{background:var(--plum-2)}
+.notion-item.on{background:var(--plum-3);font-weight:600}
+.notion-item:focus-visible{outline:3px solid var(--sun)}
+.toc-crumb{margin:0 0 -4px 2px;color:var(--text-2)}
+.toc-crumb .linkish{all:unset;cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+@media (max-width:820px){.lessons-list{max-height:55vh}}
+@media (min-width:821px){.lessons-list{position:sticky;top:12px;max-height:calc(100vh - 24px)}}
